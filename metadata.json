@@ -1,0 +1,8 @@
+{
+  "name": "Optimer v4 | Neural UI OS",
+  "description": "An industrial-grade v0-style UI operating system for shadcn/ui and Tailwind. Features neural synthesis, artifact registry, and real-time gateway monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
